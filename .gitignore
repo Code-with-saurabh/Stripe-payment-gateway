@@ -1,0 +1,48 @@
+# --- Global ---
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# --- Logs ---
+logs
+*.log
+logs/**/*.log
+
+# --- OS Files ---
+Thumbs.db
+.DS_Store
+
+# --- Dependency directories ---
+client/node_modules/
+server/node_modules/
+
+# --- Environment Files ---
+client/.env
+server/.env
+
+# --- Build Output ---
+client/build/
+server/build/
+
+# --- Coverage Reports ---
+coverage/
+client/coverage/
+server/coverage/
+
+# --- IDE Folders ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# --- Misc ---
+*.tgz
+.cache/
