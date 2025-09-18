@@ -19,10 +19,6 @@ app.use("/api/payment",PaymentRoute)
 
 
 
-
-
-
-
 app.listen(PORT,()=>{
     console.log(`Server is Running on PORT ${PORT}`)
 })

@@ -1,0 +1,31 @@
+✅ Frontend (React) Topics:
+
+React Bootstrap (optional)
+
+Axios
+
+Formik
+
+useEffect, useState
+
+Context API
+
+Events & Input Handling
+
+Props
+
+Routing (React Router)
+
+✅ Backend (Express + MongoDB) Topics:
+
+Express.js
+
+Mongoose
+
+Authentication (bcrypt, JWT)
+
+Middleware
+
+JSON Data exchange
+
+MVC Architecture
